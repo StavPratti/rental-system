@@ -6,7 +6,7 @@ Owners list properties for rent (enter pending, need admin approval).<br>
 Tenants search approved properties, submit rental applications, and request viewings.<br> 
 Admin approves new listings, verifies tenants, manages users and overall operations.<br> 
 
-# Tech:
+# Tech
 
 [React & TypeScript] – SPA with modern tooling<br> 
 [React Router] – pages & navigation<br> 
